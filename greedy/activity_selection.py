@@ -2,4 +2,5 @@
 # be performed by a single person assuming that a person can only work on a single activity
 # at a time
 
-def activity_selection():
+def activity_selection(start, finish):
+    pass
